@@ -8,7 +8,7 @@ GuardianTechnicalResources is a resource pack for Minecraft Bedrock Edition. The
 
 If you click on the side there will be updates. When you press this you can see a .mcpack download and a .zip download. 
   The .mcpack download is the easiest way of installing the resource pack to Minecraft. This works on iOS and Windows 10 and Windows 11.
-  The .zip download is mainly for Android. You will have to use a file editor to copy this .zip to the following location (version 1.18.0 or higher) `Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs`. When you copy the .zip there, uncompress the .zip file into a folder. The folder would have the name `GuardianTechnicalResouces`
+  The .zip download is mainly for Android. You will have to use a file editor to copy this .zip to the following location (version 1.18.0 or higher) `Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs`. When you copy the .zip there, uncompress the .zip file into a folder. The folder would have the name `GuardianTechnicalResources`
 
 **Credit and Contents**
 
