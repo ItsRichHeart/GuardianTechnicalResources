@@ -1,0 +1,19 @@
+Credits for Guardian Technical Resources Light
+- abc55 for the orginal files of the directional hoppers
+- Agajmot for the no block breaking particles
+- Coptaine for the health and damage indicator pack
+- Kimowen for the No Lens Spyglass pack
+- LukasPlayzGames for the villager+ texture pack
+- MCBE Craft for the portaless pack
+- Padishah for the Redstone Display pack
+- Techrock members for the TechSet texture pack
+- TheBlueShadow for the Better Fogs, World and Structure Export pack
+- Theta Sigma for the chunk visualizer, clean redstone and redstone level visualizer
+- Voidredstone for proving help with the directional hoppers showing on the side of hoppers
+- WavePlayz for discovery of hoppers that can be powered or not
+- All the rest of the credit goes to DrAv for uploading all texture packs used on his website
+    > Different Stems, Dark UI, No "How to Play", Trading Helper, Quieter Ghasts, Quieter Villagers
+    > Directional Hoppers, Directional Observers, Sticky Piston Side, Tech Set, Half Totem, Lower Fire
+    > No Vignette, Transparent Pumpkin, Unobtrusive Fire, Unobtrusive Scaffolding, Unobtrusive Scaffolding
+Vanilla Tweaks: https://vanillatweaks.net/
+Bedrock Tweaks by DrAv0011: http://bedrocktweaks.net
