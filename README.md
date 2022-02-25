@@ -20,6 +20,7 @@ In the .mcpack and in the .zip file you find a text file named `Contents.txt` co
 
 This pack contains various of quality of live changes that will advance your Minecraft experience. See below an oversight of all changes in this pack:
 ![image](https://user-images.githubusercontent.com/80174370/155613490-4feb793e-25f8-4b09-822d-79f1e282d9e4.png)
+
 In this image you can see:
 -Sticky Piston sides: Shows the sides of a sticky piston being sticky
 -Less obstrusive portal: Makes portal (tiles) easier visible
@@ -35,33 +36,72 @@ In this image you can see:
 -Directional Droppers & Dispensers: Shows the direction a dropper or dispenser is facing [bottom side kinda broken because of Minecraft]
 
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155613853-b76b9abe-884d-42a9-89d2-97b45dd37338.png)
+
 In this image you can see:
 -Chat Tweaks: Allows you to easily switch between commands and autocomplete them
 
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155613815-b92bd79c-6316-4a0b-9d64-c0b4577063e2.png)
+
 In this image you can see:
 -Screenshot button: Makes an ingame screenshots and saves it on your device
 
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155614643-57c0df4d-2aa2-422f-8616-95b268aab9c4.png)
+
 ![image](https://user-images.githubusercontent.com/80174370/155614583-1b7e099b-ee1b-4ab0-9a77-d4ed679d5bed.png)
+
 In these images you can see:
 -Half Totem: Totem is visible in third person, but not in first person.
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155614073-303d9e2a-547d-4f79-b1a1-96711d4ee16d.png)
+
 ![image](https://user-images.githubusercontent.com/80174370/155614027-9fc894e8-db56-4c21-a852-88ddc76de84c.png)
 In these images you can see:
 -Mini Totem: Makes the totem tiny for easier visibility
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155615885-b7a34cd5-a3b4-46df-810d-d9ebdd2136c7.png)
+
 ![image](https://user-images.githubusercontent.com/80174370/155615982-c8e5c6ef-aa2d-43f3-bfbb-f0ff0fb0d45c.png)
+
 ![image](https://user-images.githubusercontent.com/80174370/155616007-c7d4bd90-9a28-4e8c-953b-b73b39b14050.png)
+
 In these images you can see:
 -Dark UI: Makes the UI darker
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80174370/155615663-668bae33-58cc-43a5-9ccc-fa602ad857a8.png)
+
 ![image](https://user-images.githubusercontent.com/80174370/155615567-581be576-5319-44b0-9adc-6464e209532a.png)
+
 In these images you can see:
 -UI Tweaks: Allows you to throw out single or stacks of items more easily, as well as swapping items in containers
 
