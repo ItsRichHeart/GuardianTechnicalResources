@@ -47,6 +47,7 @@ In this image you can see:
 -Screenshot button: Makes an ingame screenshots and saves it on your device
 
 _Half Totem_
+
 -In UI-
 ![image](https://user-images.githubusercontent.com/80174370/155614643-57c0df4d-2aa2-422f-8616-95b268aab9c4.png)
 
@@ -57,6 +58,7 @@ In these images you can see:
 -Half Totem: Totem is visible in third person, but not in first person.
 
 _Mini Totem_
+
 -In UI-
 ![image](https://user-images.githubusercontent.com/80174370/155614073-303d9e2a-547d-4f79-b1a1-96711d4ee16d.png)
 
@@ -66,6 +68,7 @@ In these images you can see:
 -Mini Totem: Makes the totem tiny for easier visibility
 
 _Dark UI_
+
 -Example-
 ![image](https://user-images.githubusercontent.com/80174370/155615885-b7a34cd5-a3b4-46df-810d-d9ebdd2136c7.png)
 
@@ -79,6 +82,7 @@ In these images you can see:
 -Dark UI: Makes the UI darker
 
 _UI Tweaks_
+
 -Example-
 ![image](https://user-images.githubusercontent.com/80174370/155615663-668bae33-58cc-43a5-9ccc-fa602ad857a8.png)
 
