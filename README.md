@@ -2,7 +2,7 @@
 
 ## What is this?
 
-GuardianTechnicalResources is a resource pack for Minecraft Bedrock Edition. The resource pack is developed by members of the Guardian Liar Discord. The resource pack is a collection of various of others resource packs made by others and some by the members. This resource pack is mainly meant as a collection for anyone to use and not something the members have build. The resource pack is to enhance the experience of technical player in Minecraft Bedrock Edition.
+GuardianTechnicalResources is a resource pack for Minecraft Bedrock Edition. The resource pack is to enhance the experience of technical player in Minecraft Bedrock Edition. The resource pack is developed by members of the Guardian Lair Discord. The resource pack is a collection of various resource packs made by others and some by the Guardian Lair members. This resource pack is mainly meant as a personal resource pack that you can use and should not be edited and re-distributed
 
 ## How to install**
 ### Install .mcpack or .zip
