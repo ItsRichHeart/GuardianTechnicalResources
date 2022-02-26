@@ -36,6 +36,7 @@ In the .mcpack and in the .zip file you find a text file named `Contents.txt` co
 
 ### Oversight
 This pack contains various of quality of live changes that will advance your Minecraft experience:
+
 ![image](https://user-images.githubusercontent.com/80174370/155845192-7ecf1256-74e6-436e-8399-d632e96682f2.png)
 
 In this image you can see:
@@ -56,49 +57,60 @@ In this image you can see:
 
 ### Chattweaks
 Allows you to easily switch between commands and autocomplete them
+
 ![image](https://user-images.githubusercontent.com/80174370/155613853-b76b9abe-884d-42a9-89d2-97b45dd37338.png)
 
 ### Screenshot button
 Makes an ingame screenshots and saves it on your device
+
 ![image](https://user-images.githubusercontent.com/80174370/155613815-b92bd79c-6316-4a0b-9d64-c0b4577063e2.png)
 
 ### Half Totem
 Totem is visible in third pereson, but not in first person
 
 - _In UI_
+
 ![image](https://user-images.githubusercontent.com/80174370/155614643-57c0df4d-2aa2-422f-8616-95b268aab9c4.png)
 
 - _In Inventory_
+
 ![image](https://user-images.githubusercontent.com/80174370/155614583-1b7e099b-ee1b-4ab0-9a77-d4ed679d5bed.png)
 
 ### Mini Totem
 Makes the totem tiny for easier visibility
 
 - _In UI_
+
 ![image](https://user-images.githubusercontent.com/80174370/155614073-303d9e2a-547d-4f79-b1a1-96711d4ee16d.png)
 
 - _In Inventory_
+
 ![image](https://user-images.githubusercontent.com/80174370/155614027-9fc894e8-db56-4c21-a852-88ddc76de84c.png)
 
 ### Dark UI
 Makes the UI darker
 
 - _Start screen_
+
 ![image](https://user-images.githubusercontent.com/80174370/155615885-b7a34cd5-a3b4-46df-810d-d9ebdd2136c7.png)
 
 - _Pause screen_
+
 ![image](https://user-images.githubusercontent.com/80174370/155615982-c8e5c6ef-aa2d-43f3-bfbb-f0ff0fb0d45c.png)
 
 - _Chat screen_
+
 ![image](https://user-images.githubusercontent.com/80174370/155616007-c7d4bd90-9a28-4e8c-953b-b73b39b14050.png)
 
 ### Container Tweak
 Allows you to swap items and throw them out in various of containers
 
 - _Dropper_
+
 ![image](https://user-images.githubusercontent.com/80174370/155615663-668bae33-58cc-43a5-9ccc-fa602ad857a8.png)
 
 - _Hopper_
+
 ![image](https://user-images.githubusercontent.com/80174370/155615567-581be576-5319-44b0-9adc-6464e209532a.png)
 
 ### Quick Craft
@@ -110,6 +122,7 @@ Allows you to instantly craft all items with a single click
 
 ### Villager Trading
 Allows you to instantly trade everything at once as well as seeing locked trades
+
 ![image](https://user-images.githubusercontent.com/80174370/155844690-572682df-7b61-4a08-8542-8a5d0e367eb6.png)
 
 ## To Do
