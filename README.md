@@ -122,3 +122,5 @@ To-Do list for this resource pack
 - Quick craft book in crafting
   - Instead of having only a green box, as well a Crafting Book
   - Not much priority, but something to work on
+- Make 1.16.40 compatible
+  - Currently crashes in that version
