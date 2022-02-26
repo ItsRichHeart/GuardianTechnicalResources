@@ -103,6 +103,7 @@ Allows you to swap items and throw them out in various of containers
 
 ### Quick Craft
 Allows you to instantly craft all items with a single click
+
 ![image](https://user-images.githubusercontent.com/80174370/155844553-9aa374f2-2003-4401-945a-6e4ba0a4c6da.png)
 ![image](https://user-images.githubusercontent.com/80174370/155844584-181a807b-7a65-47a9-958f-195c7fbc9709.png)
 ![image](https://user-images.githubusercontent.com/80174370/155844589-ba3d3157-de98-443f-9cb4-47e436181045.png)
