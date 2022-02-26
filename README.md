@@ -124,3 +124,5 @@ To-Do list for this resource pack
   - Not much priority, but something to work on
 - Make 1.16.40 compatible
   - Currently crashes in that version
+- Flipbook disabler
+  - Probably disable only the most laggy particles/block flipbooks
