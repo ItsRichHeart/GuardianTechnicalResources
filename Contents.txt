@@ -1,4 +1,4 @@
-GuardianTechnicalResources Light will contain the following texture packs:
+GuardianTechnicalResources will contain the following texture packs:
 
 Aesthetic:
 	- Different Pumpkin and Melon Stems: Changes the stems to distinguish them from each
@@ -6,7 +6,6 @@ Aesthetic:
 UI:
 	- [X] Dark UI: Turns the UI a little darker
 	- Max framerate slider: Turn up or down the frames per second
-	- No "How to Play": Removes the buttons for the "How to Play"
 	- Realm visiblility: Shows info about the world in a realm
 	- Screenshot Button: Shows a button on the pause screen which allows the player to make screenshots
 	- Structure Export: Shows button to export structures
@@ -42,7 +41,9 @@ Unobtrusive:
 		> Potion particles
 	- Portaless: Makes portal more transparent
 	- Transparent Pumpkin: Make it easier to see through while wearing a pumpkin
+	- Unobtrusive Bad Omen: Removes the image of the effect on screen
 	- Unobtrusive Fire: Makes the burning animation of the player less obstructive
+	- Unobtrusive Hero Of The Village: Removes the image of the effect on screen
 	- Unobtrusive Scaffolding: Makes scaffolding less obstructive
 	- Unobtrusive Rain And Snow: Allows for better vision in rain and snow
 
@@ -50,5 +51,3 @@ Unobtrusive:
 [Y]			Note: Health + Damage Indictor forms one subpack that can be toggled on/off
 [SHADER]	Note: Pack contains a shader and only compatible with non-RenderDragon devices
 [A],[B] 	Note: A and B are subpacks and one can only be chosen
-
-
