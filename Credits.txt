@@ -1,4 +1,5 @@
-Credits for Guardian Technical Resources Light
+Credits for Guardian Technical Resources
+
 - abc55 for the orginal files of the directional hoppers
 - Agajmot for the no block breaking particles
 - Coptaine for the health and damage indicator pack
@@ -12,7 +13,7 @@ Credits for Guardian Technical Resources Light
 - Voidredstone for proving help with the directional hoppers showing on the side of hoppers
 - WavePlayz for discovery of hoppers that can be powered or not
 - All the rest of the credit goes to DrAv for uploading all texture packs used on his website
-    > Different Stems, Dark UI, No "How to Play", Trading Helper, Quieter Ghasts, Quieter Villagers
+    > Different Stems, Dark UI, Trading Helper, Quieter Ghasts, Quieter Villagers
     > Directional Hoppers, Directional Observers, Sticky Piston Side, Tech Set, Half Totem, Lower Fire
     > No Vignette, Transparent Pumpkin, Unobtrusive Fire, Unobtrusive Scaffolding, Unobtrusive Scaffolding
 Vanilla Tweaks: https://vanillatweaks.net/
