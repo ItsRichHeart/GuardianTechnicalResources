@@ -11,21 +11,7 @@ If you click on the side there will be updates. When you press this you can see 
 - The .zip download is mainly for Android. You will have to use a file editor to copy this .zip to the following location (version 1.18.0 or higher) `Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs`. When you copy the .zip there, uncompress the .zip file into a folder. The folder would have the name `GuardianTechnicalResources`
 
 ### Install into global resources
-When it is installed, you will have to apply the resource pack into the settings. Follow these steps on how to do it:
-
-1. Open the Global Resources under Settings: 
-   - ![image](https://user-images.githubusercontent.com/80174370/155843495-1597461b-67a4-488e-b2c8-d921df7280b3.png)
-   - ![image](https://user-images.githubusercontent.com/80174370/155843548-32e5f65c-c41f-4fa6-adc5-928b05934c0f.png)
-2. Press the "My Packs" button
-   - ![image](https://user-images.githubusercontent.com/80174370/155843594-08f077cf-54ef-4e89-b375-d9b457f973dd.png)
-3. Press on the GuardianTechnicalResources resource pack and press "Activate". This will add it to the active resource packs
-   - ![image](https://user-images.githubusercontent.com/80174370/155843647-e5134d03-a6a4-4a69-8f73-9094c2370068.png)
-   - ![image](https://user-images.githubusercontent.com/80174370/155843663-ccb5dbfe-7786-4618-99f9-d75f3772942c.png)
-4. Select the subpack of your choice using the "cog"-symbol: 
-   - ![image](https://user-images.githubusercontent.com/80174370/155843684-19295b6d-1620-4a63-bb6a-2a7b912bb1e6.png)
-   - ![image](https://user-images.githubusercontent.com/80174370/155843692-0df64bfd-37b8-44eb-a262-c966fa230eb7.png)
-   - ![image](https://user-images.githubusercontent.com/80174370/155843812-bc1cadef-c04d-4e82-9373-33185ddb0616.png)
-5. And that is it! You can now use this any resource pack in any world. 
+When it is installed, you will have to apply the resource pack into the Global Resources in Settings. You can also change between the different subpacks.
 > Note: If the world does not allow you to have resource packs enabled in that world, it will not work. You can check that by looking in your inventory and see if Quick Craft is enabled
 
 ## Credit and Contents file
