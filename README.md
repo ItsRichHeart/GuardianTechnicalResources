@@ -111,10 +111,6 @@ Allows you to instantly trade everything at once as well as see locked trades
 
 ## To Do
 To-Do list for this resource pack
-- Different growth stages Nether Wart
-  - Makes it easier visible for each growth stage
-- Piston back visibility
-  - Add a brown dot on the back of a normal piston and a green one on a sticky piston one so you can easily see the difference
 - Inventory only/Always durability shower 
   - Still need to decide whether it should be useful only in hud screen or also in inventory and whether it is possible
 - UI Tweaks
@@ -122,7 +118,6 @@ To-Do list for this resource pack
 - Quick craft book in crafting
   - Instead of having only a green box, as well a Crafting Book
   - Not much priority, but something to work on
-- Make 1.16.40 compatible
-  - Currently crashes in that version
+- Make 1.7 compatible
 - Flipbook disabler
   - Probably disable only the most laggy particles/block flipbooks
